@@ -1,5 +1,5 @@
-let p1 ="parrafo 1";
-let p2 ="parrafo 2";
+let p1 ="A lo largo de mi carrera en Artes y Comunicación Digital, me he dado cuenta de que estas tecnologías web me han permitido desarrollar proyectos digitales en los que el arte y la tecnología convergen de manera creativa y funcional. Personalmente, me han sido de gran utilidad en la construcción de mi portafolio digital, el cual me ha servido para postularme a diversas galerías. Desde lograr colocar las imágenes de mis trabajos hasta usar ventanas emergentes, estas herramientas me han permitido explorar nuevas formas de presentación y difusión artística.";
+let p2 ="Sin embargo, en un futuro me gustaría seguir descubriendo más herramientas y técnicas para crear y diseñar páginas web más complejas y diversas, que no solo sirvan como portafolios o exhibiciones, sino también como espacios de interacción y exploración artística. Los proyectos web siempre me han parecido una excelente alternativa para desarrollar obras más dinámicas, interactivas e inmersivas, donde el espectador pueda participar activamente. Además, en el contexto del arte digital y la cultura en red, comprender estas tecnologías me ha ayudado a reflexionar sobre la distribución de la misma información, la accesibilidad y la autonomía en estos mismos entornos digitales, permitiéndome  expandir mis posibilidades.";
 
 document.getElementById('p1').innerHTML=p1;
 document.getElementById('p2').innerHTML=p2;
