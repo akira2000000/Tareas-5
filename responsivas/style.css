@@ -1,0 +1,24 @@
+body{background-color:rgb(145, 159, 237);}
+*{ box-sizing: border-box;}
+
+.izquierda {background-color: cadetblue;
+    padding: 20px;
+    font-size: medium;
+    float:left;
+    width:31%;}
+.centro {background-color: aquamarine;
+    padding: 20px;
+    font-size: medium;
+    float:left;
+    width:31%;}
+.derecha {background-color: bisque;
+    padding: 20px;
+    font-size: medium;
+    float:left;
+    width:31%;}
+
+@media screen and(max-width:800px){
+    .izquierda, .centro, .derecha{
+        width: 100%;
+    }
+}
