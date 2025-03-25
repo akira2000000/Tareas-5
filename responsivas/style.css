@@ -1,6 +1,12 @@
 body{background-color:rgb(145, 159, 237);}
 *{ box-sizing: border-box;}
 
+img{
+    max-width: 60%;
+    height: auto;
+
+}
+
 .izquierda {background-color: cadetblue;
     padding: 20px;
     font-size: medium;
@@ -22,3 +28,4 @@ body{background-color:rgb(145, 159, 237);}
         width: 100%;
     }
 }
+
