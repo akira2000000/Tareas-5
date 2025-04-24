@@ -1,0 +1,69 @@
+body {background-color: #000000;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;}
+    #p{color: #ffffff;}
+
+.titulo {
+    background-color: #312d6e;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.azul {
+    color: #a4d85a; /* Azul */
+}
+
+.blanco {
+    color: #ffffff; /* Rojo */
+}
+
+.video{
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    margin-top: 30px;
+}
+
+.video-box video {
+    width: 400px;
+    border-radius: 10px;
+}
+
+.texto-desordenado {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.texto-desordenado .palabra {
+    position: absolute;
+}
+
+.uno    { top: 10px; left: 30px; color:#ffffff }
+.dos    { top: 40px; left: 200px; color: #ecadca; }
+.tres   { top: 80px; left: 100px; color: #f1b39a; }
+.cuatro { top: 130px; left: 150px; color:#ffffff}
+.cinco  { top: 170px; left: 250px;color:#ffffff }
+.seis   { top: 200px; left: 200px; color: #9fe98c; }
+.siete    { top: 250px; left: 300px; color:#ffffff }
+.ocho    { top: 300px; left: 400px; color: #cdadec; }
+.nueve   { top: 350px; left: 350px; color: #ff69b4; }
+.diez { top: 400px; left: 500px; color:#ffffff }
+.once  { top: 450px; left: 300px; color:#ffffff }
+.doce   { top: 500px; left: 550px; color: #a5e4d7; }
+
+.texto-creativo {
+    margin: 20px auto;
+    max-width: 700px;
+    background-color: #fff0f5;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    line-height: 1.6;
+}

@@ -1,0 +1,1 @@
+console.log("Explorando ideas más allá de las palabras...");
